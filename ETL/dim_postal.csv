@@ -1,0 +1,628 @@
+City,State,Postal Code,Region
+Henderson,Kentucky,42420.0,South
+Los Angeles,California,90036.0,West
+Fort Lauderdale,Florida,33311.0,South
+Los Angeles,California,90032.0,West
+Concord,North Carolina,28027.0,South
+Seattle,Washington,98103.0,West
+Fort Worth,Texas,76106.0,Central
+Madison,Wisconsin,53711.0,Central
+West Jordan,Utah,84084.0,West
+San Francisco,California,94109.0,West
+Fremont,Nebraska,68025.0,Central
+Philadelphia,Pennsylvania,19140.0,East
+Orem,Utah,84057.0,West
+Los Angeles,California,90049.0,West
+Houston,Texas,77095.0,Central
+Richardson,Texas,75080.0,Central
+Houston,Texas,77041.0,Central
+Naperville,Illinois,60540.0,Central
+Melbourne,Florida,32935.0,South
+Eagan,Minnesota,55122.0,Central
+Westland,Michigan,48185.0,Central
+Dover,Delaware,19901.0,East
+New Albany,Indiana,47150.0,Central
+New York City,New York,10024.0,East
+Troy,New York,12180.0,East
+Los Angeles,California,90004.0,West
+Chicago,Illinois,60610.0,Central
+Gilbert,Arizona,85234.0,West
+Springfield,Virginia,22153.0,South
+New York City,New York,10009.0,East
+Jackson,Michigan,49201.0,Central
+Memphis,Tennessee,38109.0,South
+Houston,Texas,77070.0,Central
+Decatur,Alabama,35601.0,South
+San Francisco,California,94122.0,West
+Durham,North Carolina,27707.0,South
+Chicago,Illinois,60623.0,Central
+Columbia,South Carolina,29203.0,South
+Rochester,Minnesota,55901.0,Central
+Minneapolis,Minnesota,55407.0,Central
+Portland,Oregon,97206.0,West
+Saint Paul,Minnesota,55106.0,Central
+Aurora,Colorado,80013.0,West
+Charlotte,North Carolina,28205.0,South
+Orland Park,Illinois,60462.0,Central
+New York City,New York,10035.0,East
+Urbandale,Iowa,50322.0,Central
+Columbus,Ohio,43229.0,East
+Bristol,Tennessee,37620.0,South
+Wilmington,Delaware,19805.0,East
+Bloomington,Illinois,61701.0,Central
+Phoenix,Arizona,85023.0,West
+Roseville,California,95661.0,West
+Independence,Missouri,64055.0,Central
+Pasadena,California,91104.0,West
+Newark,Ohio,43055.0,East
+Franklin,Wisconsin,53132.0,Central
+Scottsdale,Arizona,85254.0,West
+San Jose,California,95123.0,West
+Seattle,Washington,98105.0,West
+Seattle,Washington,98115.0,West
+Edmond,Oklahoma,73034.0,Central
+Los Angeles,California,90045.0,West
+Philadelphia,Pennsylvania,19134.0,East
+Carlsbad,New Mexico,88220.0,West
+San Antonio,Texas,78207.0,Central
+Houston,Texas,77036.0,Central
+Decatur,Illinois,62521.0,Central
+Monroe,Louisiana,71203.0,South
+Fairfield,Connecticut,6824.0,East
+Grand Prairie,Texas,75051.0,Central
+Redlands,California,92374.0,West
+Hamilton,Ohio,45011.0,East
+Westfield,New Jersey,7090.0,East
+Philadelphia,Pennsylvania,19120.0,East
+Akron,Ohio,44312.0,East
+Denver,Colorado,80219.0,West
+Dallas,Texas,75220.0,Central
+Franklin,Tennessee,37064.0,South
+Whittier,California,90604.0,West
+Saginaw,Michigan,48601.0,Central
+Medina,Ohio,44256.0,East
+Dublin,Ohio,43017.0,East
+Detroit,Michigan,48227.0,Central
+Columbia,Tennessee,38401.0,South
+Tampa,Florida,33614.0,South
+Santa Clara,California,95051.0,West
+Lakeville,Minnesota,55044.0,Central
+San Diego,California,92037.0,West
+Pasadena,Texas,77506.0,Central
+Brentwood,California,94513.0,West
+Chapel Hill,North Carolina,27514.0,South
+Morristown,New Jersey,7960.0,East
+Cincinnati,Ohio,45231.0,East
+San Francisco,California,94110.0,West
+Inglewood,California,90301.0,West
+Tamarac,Florida,33319.0,South
+Colorado Springs,Colorado,80906.0,West
+Belleville,New Jersey,7109.0,East
+Taylor,Michigan,48180.0,Central
+Lakewood,New Jersey,8701.0,East
+Arlington,Virginia,22204.0,South
+Arvada,Colorado,80004.0,West
+Hackensack,New Jersey,7601.0,East
+Saint Petersburg,Florida,33710.0,South
+Philadelphia,Pennsylvania,19143.0,East
+Long Beach,California,90805.0,West
+Hesperia,California,92345.0,West
+Murfreesboro,Tennessee,37130.0,South
+Layton,Utah,84041.0,West
+Austin,Texas,78745.0,Central
+Lowell,Massachusetts,1852.0,East
+Columbus,Georgia,31907.0,South
+Manchester,Connecticut,6040.0,East
+Harlingen,Texas,78550.0,Central
+Tucson,Arizona,85705.0,West
+Quincy,Illinois,62301.0,Central
+Franklin,Massachusetts,2038.0,East
+Pembroke Pines,Florida,33024.0,South
+Des Moines,Washington,98198.0,West
+Peoria,Illinois,61604.0,Central
+Las Vegas,Nevada,89115.0,West
+Warwick,Rhode Island,2886.0,East
+Miami,Florida,33180.0,South
+Wilmington,North Carolina,28403.0,South
+Huntington Beach,California,92646.0,West
+Richmond,Kentucky,40475.0,South
+Louisville,Colorado,80027.0,West
+Lawrence,Massachusetts,1841.0,East
+Jackson,Mississippi,39212.0,South
+Canton,Michigan,48187.0,Central
+New Rochelle,New York,10801.0,East
+Gastonia,North Carolina,28052.0,South
+Jacksonville,Florida,32216.0,South
+Columbus,Indiana,47201.0,Central
+Auburn,New York,13021.0,East
+Norman,Oklahoma,73071.0,Central
+Concord,California,94521.0,West
+Park Ridge,Illinois,60068.0,Central
+Amarillo,Texas,79109.0,Central
+Lindenhurst,New York,11757.0,East
+Los Angeles,California,90008.0,West
+San Diego,California,92024.0,West
+Huntsville,Texas,77340.0,Central
+Rochester,New York,14609.0,East
+Fayetteville,Arkansas,72701.0,South
+Costa Mesa,California,92627.0,West
+Parker,Colorado,80134.0,West
+Atlanta,Georgia,30318.0,South
+Gladstone,Missouri,64118.0,Central
+Great Falls,Montana,59405.0,West
+Detroit,Michigan,48234.0,Central
+Lakeland,Florida,33801.0,South
+Montgomery,Alabama,36116.0,South
+Mesa,Arizona,85204.0,West
+Chicago,Illinois,60653.0,Central
+Green Bay,Wisconsin,54302.0,Central
+Springfield,Ohio,45503.0,East
+Anaheim,California,92804.0,West
+Marysville,Washington,98270.0,West
+Salem,Oregon,97301.0,West
+Laredo,Texas,78041.0,Central
+Dallas,Texas,75217.0,Central
+Grove City,Ohio,43123.0,East
+New York City,New York,10011.0,East
+Dearborn,Michigan,48126.0,Central
+Warner Robins,Georgia,31088.0,South
+Vallejo,California,94591.0,West
+Mission Viejo,California,92691.0,West
+Rochester Hills,Michigan,48307.0,Central
+Plainfield,New Jersey,7060.0,East
+Sierra Vista,Arizona,85635.0,West
+Vancouver,Washington,98661.0,West
+Aurora,Illinois,60505.0,Central
+Arlington,Texas,76017.0,Central
+Louisville,Kentucky,40214.0,South
+Dallas,Texas,75081.0,Central
+Cleveland,Ohio,44105.0,East
+Tyler,Texas,75701.0,Central
+Burlington,North Carolina,27217.0,South
+Waynesboro,Virginia,22980.0,South
+Chester,Pennsylvania,19013.0,East
+Cary,North Carolina,27511.0,South
+Palm Coast,Florida,32137.0,South
+Mount Vernon,New York,10550.0,East
+Detroit,Michigan,48205.0,Central
+Hialeah,Florida,33012.0,South
+Oceanside,New York,11572.0,East
+San Diego,California,92105.0,West
+Evanston,Illinois,60201.0,Central
+Trenton,Michigan,48183.0,Central
+Cottage Grove,Minnesota,55016.0,Central
+Bossier City,Louisiana,71111.0,South
+Des Moines,Iowa,50315.0,Central
+Lancaster,California,93534.0,West
+Richmond,Virginia,23223.0,South
+Asheville,North Carolina,28806.0,South
+Lake Elsinore,California,92530.0,West
+Omaha,Nebraska,68104.0,Central
+Edmonds,Washington,98026.0,West
+Santa Ana,California,92704.0,West
+Milwaukee,Wisconsin,53209.0,Central
+Florence,Kentucky,41042.0,South
+Lorain,Ohio,44052.0,East
+Linden,New Jersey,7036.0,East
+Salinas,California,93905.0,West
+New Brunswick,New Jersey,8901.0,East
+Lancaster,Pennsylvania,17602.0,East
+Concord,New Hampshire,3301.0,East
+Columbia,Maryland,21044.0,East
+Garland,Texas,75043.0,Central
+Norwich,Connecticut,6360.0,East
+Alexandria,Virginia,22304.0,South
+Toledo,Ohio,43615.0,East
+Farmington,New Mexico,87401.0,West
+Riverside,California,92503.0,West
+Torrance,California,90503.0,West
+Round Rock,Texas,78664.0,Central
+Oceanside,California,92054.0,West
+Boca Raton,Florida,33433.0,South
+Virginia Beach,Virginia,23464.0,South
+Murrieta,California,92563.0,West
+Jacksonville,North Carolina,28540.0,South
+Burlington,Iowa,52601.0,Central
+Olympia,Washington,98502.0,West
+Washington,District of Columbia,20016.0,East
+Jefferson City,Missouri,65109.0,Central
+Saint Peters,Missouri,63376.0,Central
+Rockford,Illinois,61107.0,Central
+Miami,Florida,33142.0,South
+Brownsville,Texas,78521.0,Central
+Yonkers,New York,10701.0,East
+Oakland,California,94601.0,West
+Monroe,North Carolina,28110.0,South
+Clinton,Maryland,20735.0,East
+Roswell,Georgia,30076.0,South
+Jonesboro,Arkansas,72401.0,South
+Richmond,Indiana,47374.0,Central
+Antioch,California,94509.0,West
+Homestead,Florida,33030.0,South
+La Porte,Indiana,46350.0,Central
+Lansing,Michigan,48911.0,Central
+Cuyahoga Falls,Ohio,44221.0,East
+Reno,Nevada,89502.0,West
+Harrisonburg,Virginia,22801.0,South
+Escondido,California,92025.0,West
+Royal Oak,Michigan,48073.0,Central
+Rockville,Maryland,20852.0,East
+Coral Springs,Florida,33065.0,South
+Buffalo,New York,14215.0,East
+Boynton Beach,Florida,33437.0,South
+Gulfport,Mississippi,39503.0,South
+Fresno,California,93727.0,West
+Greenville,North Carolina,27834.0,South
+Long Beach,New York,11561.0,East
+Florence,Alabama,35630.0,South
+Macon,Georgia,31204.0,South
+Cedar Rapids,Iowa,52402.0,Central
+Providence,Rhode Island,2908.0,East
+Pueblo,Colorado,81001.0,West
+Fairfield,California,94533.0,West
+Deltona,Florida,32725.0,South
+Murray,Kentucky,42071.0,South
+Middletown,Connecticut,6457.0,East
+Freeport,New York,11520.0,East
+Pico Rivera,California,90660.0,West
+Provo,Utah,84604.0,West
+Pleasant Grove,Utah,84062.0,West
+Smyrna,Georgia,30080.0,South
+Salem,Virginia,24153.0,South
+Parma,Ohio,44134.0,East
+Mobile,Alabama,36608.0,South
+New Bedford,Massachusetts,2740.0,East
+Irving,Texas,75061.0,Central
+Vineland,New Jersey,8360.0,East
+Glendale,Arizona,85301.0,West
+Niagara Falls,New York,14304.0,East
+Thomasville,North Carolina,27360.0,South
+Westminster,California,92683.0,West
+Jackson,Tennessee,38301.0,South
+Coppell,Texas,75019.0,Central
+Pomona,California,91767.0,West
+North Las Vegas,Nevada,89031.0,West
+Allentown,Pennsylvania,18103.0,East
+Newark,Delaware,19711.0,East
+Tempe,Arizona,85281.0,West
+Laguna Niguel,California,92677.0,West
+Bridgeton,New Jersey,8302.0,East
+Everett,Massachusetts,2149.0,East
+Watertown,New York,13601.0,East
+Appleton,Wisconsin,54915.0,Central
+Bellevue,Washington,98006.0,West
+Allen,Texas,75002.0,Central
+El Paso,Texas,79907.0,Central
+Grapevine,Texas,76051.0,Central
+Carrollton,Texas,75007.0,Central
+Smyrna,Tennessee,37167.0,South
+Kent,Washington,98031.0,West
+Lafayette,Louisiana,70506.0,South
+Tigard,Oregon,97224.0,West
+Skokie,Illinois,60076.0,Central
+Plano,Texas,75023.0,Central
+Suffolk,Virginia,23434.0,South
+Indianapolis,Indiana,46203.0,Central
+Bayonne,New Jersey,7002.0,East
+Fayetteville,North Carolina,28314.0,South
+Greensboro,North Carolina,27405.0,South
+Baltimore,Maryland,21215.0,East
+Kenosha,Wisconsin,53142.0,Central
+Olathe,Kansas,66062.0,Central
+Auburn,Washington,98002.0,West
+Tulsa,Oklahoma,74133.0,Central
+Redmond,Oregon,97756.0,West
+Raleigh,North Carolina,27604.0,South
+Muskogee,Oklahoma,74403.0,Central
+Meriden,Connecticut,6450.0,East
+Bowling Green,Kentucky,42104.0,South
+South Bend,Indiana,46614.0,Central
+Bristol,Connecticut,6010.0,East
+Henderson,Nevada,89015.0,West
+Spokane,Washington,99207.0,West
+Keller,Texas,76248.0,Central
+Fairfield,Ohio,45014.0,East
+Port Orange,Florida,32127.0,South
+Medford,Oregon,97504.0,West
+Charlottesville,Virginia,22901.0,South
+Missoula,Montana,59801.0,West
+Miami,Florida,33178.0,South
+Florence,South Carolina,29501.0,South
+Springfield,Oregon,97477.0,West
+Apopka,Florida,32712.0,South
+Reading,Pennsylvania,19601.0,East
+Broomfield,Colorado,80020.0,West
+Springfield,Missouri,65807.0,Central
+Paterson,New Jersey,7501.0,East
+Oklahoma City,Oklahoma,73120.0,Central
+Chesapeake,Virginia,23320.0,South
+Lubbock,Texas,79424.0,Central
+Columbia,Missouri,65203.0,Central
+Johnson City,Tennessee,37604.0,South
+Auburn,Alabama,36830.0,South
+San Bernardino,California,92404.0,West
+Leominster,Massachusetts,1453.0,East
+Bozeman,Montana,59715.0,West
+Peoria,Arizona,85345.0,West
+Lakewood,Ohio,44107.0,East
+Perth Amboy,New Jersey,8861.0,East
+Ontario,California,91761.0,West
+Rancho Cucamonga,California,91730.0,West
+Moorhead,Minnesota,56560.0,Central
+Mesquite,Texas,75150.0,Central
+Stockton,California,95207.0,West
+Ormond Beach,Florida,32174.0,South
+Sunnyvale,California,94086.0,West
+Dover,New Hampshire,3820.0,East
+York,Pennsylvania,17403.0,East
+College Station,Texas,77840.0,Central
+Saint Louis,Missouri,63116.0,Central
+Quincy,Massachusetts,2169.0,East
+Manteca,California,95336.0,West
+Kent,Ohio,44240.0,East
+San Angelo,Texas,76903.0,Central
+Salt Lake City,Utah,84106.0,West
+Huntsville,Alabama,35810.0,South
+Knoxville,Tennessee,37918.0,South
+Little Rock,Arkansas,72209.0,South
+Lincoln Park,Michigan,48146.0,Central
+Marion,Ohio,43302.0,East
+Littleton,Colorado,80122.0,West
+Burlington,Vermont,,East
+Bangor,Maine,4401.0,East
+Southaven,Mississippi,38671.0,South
+New Castle,Indiana,47362.0,Central
+Midland,Michigan,48640.0,Central
+Sioux Falls,South Dakota,57103.0,Central
+Fort Collins,Colorado,80525.0,West
+Lafayette,Indiana,47905.0,Central
+Clarksville,Tennessee,37042.0,South
+Sacramento,California,95823.0,West
+Thousand Oaks,California,91360.0,West
+Malden,Massachusetts,2148.0,East
+Holyoke,Massachusetts,1040.0,East
+Albuquerque,New Mexico,87105.0,West
+Sparks,Nevada,89431.0,West
+Coachella,California,92236.0,West
+Elmhurst,Illinois,60126.0,Central
+Passaic,New Jersey,7055.0,East
+North Charleston,South Carolina,29406.0,South
+Newport News,Virginia,23602.0,South
+Jamestown,New York,14701.0,East
+Mishawaka,Indiana,46544.0,Central
+Bowling Green,Ohio,43402.0,East
+La Quinta,California,92253.0,West
+Tallahassee,Florida,32303.0,South
+Nashville,Tennessee,37211.0,South
+Bellingham,Washington,98226.0,West
+Woodstock,Illinois,60098.0,Central
+Haltom City,Texas,76117.0,Central
+Wheeling,Illinois,60090.0,Central
+Summerville,South Carolina,29483.0,South
+Hot Springs,Arkansas,71901.0,South
+Englewood,Colorado,80112.0,West
+Lancaster,Ohio,43130.0,East
+Las Cruces,New Mexico,88001.0,West
+Hoover,Alabama,35244.0,South
+Frisco,Texas,75034.0,Central
+Vacaville,California,95687.0,West
+Murray,Utah,84107.0,West
+Waukesha,Wisconsin,53186.0,Central
+Bakersfield,California,93309.0,West
+Pompano Beach,Florida,33068.0,South
+Troy,Ohio,45373.0,East
+Corpus Christi,Texas,78415.0,Central
+Redondo Beach,California,90278.0,West
+Orlando,Florida,32839.0,South
+Orange,New Jersey,7050.0,East
+Lake Charles,Louisiana,70601.0,South
+Highland Park,Illinois,60035.0,Central
+Hempstead,New York,11550.0,East
+Noblesville,Indiana,46060.0,Central
+Apple Valley,Minnesota,55124.0,Central
+Mount Pleasant,South Carolina,29464.0,South
+Sterling Heights,Michigan,48310.0,Central
+Eau Claire,Wisconsin,54703.0,Central
+Pharr,Texas,78577.0,Central
+Billings,Montana,59102.0,West
+Gresham,Oregon,97030.0,West
+Chattanooga,Tennessee,37421.0,South
+Meridian,Idaho,83642.0,West
+Apple Valley,California,92307.0,West
+Bolingbrook,Illinois,60440.0,Central
+Maple Grove,Minnesota,55369.0,Central
+Woodland,California,95695.0,West
+Missouri City,Texas,77489.0,Central
+Pearland,Texas,77581.0,Central
+San Mateo,California,94403.0,West
+Grand Rapids,Michigan,49505.0,Central
+Visalia,California,93277.0,West
+Overland Park,Kansas,66212.0,Central
+Temecula,California,92592.0,West
+Yucaipa,California,92399.0,West
+Revere,Massachusetts,2151.0,East
+Conroe,Texas,77301.0,Central
+Tinley Park,Illinois,60477.0,Central
+Dubuque,Iowa,52001.0,Central
+Dearborn Heights,Michigan,48127.0,Central
+Santa Fe,New Mexico,87505.0,West
+Hickory,North Carolina,28601.0,South
+Carol Stream,Illinois,60188.0,Central
+Saint Cloud,Minnesota,56301.0,Central
+North Miami,Florida,33161.0,South
+Lawrence,Indiana,46226.0,Central
+Plantation,Florida,33317.0,South
+Port Saint Lucie,Florida,34952.0,South
+Rock Hill,South Carolina,29730.0,South
+Odessa,Texas,79762.0,Central
+West Allis,Wisconsin,53214.0,Central
+Chula Vista,California,91911.0,West
+Manhattan,Kansas,66502.0,Central
+Altoona,Pennsylvania,16602.0,East
+Thornton,Colorado,80229.0,West
+Champaign,Illinois,61821.0,Central
+Bloomington,Indiana,47401.0,Central
+Texarkana,Arkansas,71854.0,South
+Edinburg,Texas,78539.0,Central
+Baytown,Texas,77520.0,Central
+Greenwood,Indiana,46142.0,Central
+Lakewood,California,90712.0,West
+Woonsocket,Rhode Island,2895.0,East
+Superior,Wisconsin,54880.0,Central
+Bedford,Texas,76021.0,Central
+Covington,Washington,98042.0,West
+Broken Arrow,Oklahoma,74012.0,Central
+Miramar,Florida,33023.0,South
+Hollywood,Florida,33021.0,South
+Deer Park,Texas,77536.0,Central
+Wichita,Kansas,67212.0,Central
+Mcallen,Texas,78501.0,Central
+Iowa City,Iowa,52240.0,Central
+Boise,Idaho,83704.0,West
+Cranston,Rhode Island,2920.0,East
+Freeport,Illinois,61032.0,Central
+Port Arthur,Texas,77642.0,Central
+Citrus Heights,California,95610.0,West
+The Colony,Texas,75056.0,Central
+Redmond,Washington,98052.0,West
+Daytona Beach,Florida,32114.0,South
+Bullhead City,Arizona,86442.0,West
+Portage,Indiana,46368.0,Central
+Fargo,North Dakota,58103.0,Central
+Elkhart,Indiana,46514.0,Central
+San Gabriel,California,91776.0,West
+Margate,Florida,33063.0,South
+Sandy Springs,Georgia,30328.0,South
+Mentor,Ohio,44060.0,East
+Lawton,Oklahoma,73505.0,Central
+Hampton,Virginia,23666.0,South
+Rome,New York,13440.0,East
+La Crosse,Wisconsin,54601.0,Central
+Lewiston,Idaho,83501.0,West
+Hattiesburg,Mississippi,39401.0,South
+Danville,California,94526.0,West
+Mount Pleasant,Michigan,48858.0,Central
+Logan,Utah,84321.0,West
+Waterbury,Connecticut,6708.0,East
+Athens,Georgia,30605.0,South
+Lewiston,Maine,4240.0,East
+Danville,Illinois,61832.0,Central
+Avondale,Arizona,85323.0,West
+Marietta,Georgia,30062.0,South
+Yuma,Arizona,85364.0,West
+Wausau,Wisconsin,54401.0,Central
+Pasco,Washington,99301.0,West
+Oak Park,Illinois,60302.0,Central
+Pensacola,Florida,32503.0,South
+League City,Texas,77573.0,Central
+Gaithersburg,Maryland,20877.0,East
+Lehi,Utah,84043.0,West
+Tuscaloosa,Alabama,35401.0,South
+Moreno Valley,California,92553.0,West
+Georgetown,Kentucky,40324.0,South
+Loveland,Colorado,80538.0,West
+Chandler,Arizona,85224.0,West
+Helena,Montana,59601.0,West
+Kirkwood,Missouri,63122.0,Central
+Waco,Texas,76706.0,Central
+Roseville,Michigan,48066.0,Central
+Frankfort,Illinois,60423.0,Central
+Bethlehem,Pennsylvania,18018.0,East
+Roseville,Minnesota,55113.0,Central
+Grand Island,Nebraska,68801.0,Central
+Woodbury,Minnesota,55125.0,Central
+Oak Park,Michigan,48237.0,Central
+Rogers,Arkansas,72756.0,South
+Clovis,New Mexico,88101.0,West
+Jupiter,Florida,33458.0,South
+Santa Barbara,California,93101.0,West
+Cedar Hill,Texas,75104.0,Central
+Norfolk,Nebraska,68701.0,Central
+Draper,Utah,84020.0,West
+Ann Arbor,Michigan,48104.0,Central
+La Mesa,California,91941.0,West
+Pocatello,Idaho,83201.0,West
+Holland,Michigan,49423.0,Central
+Milford,Connecticut,6460.0,East
+Buffalo Grove,Illinois,60089.0,Central
+Lake Forest,California,92630.0,West
+Redding,California,96003.0,West
+Chico,California,95928.0,West
+Utica,New York,13501.0,East
+Conway,Arkansas,72032.0,South
+Cheyenne,Wyoming,82001.0,West
+Owensboro,Kentucky,42301.0,South
+Caldwell,Idaho,83605.0,West
+Kenner,Louisiana,70065.0,South
+Nashua,New Hampshire,3060.0,East
+Bartlett,Tennessee,38134.0,South
+Redwood City,California,94061.0,West
+Lebanon,Tennessee,37087.0,South
+Santa Maria,California,93454.0,West
+Des Plaines,Illinois,60016.0,Central
+Longview,Washington,98632.0,West
+Hendersonville,Tennessee,37075.0,South
+Waterloo,Iowa,50701.0,Central
+Cambridge,Massachusetts,2138.0,East
+Palatine,Illinois,60067.0,Central
+Beverly,Massachusetts,1915.0,East
+Eugene,Oregon,97405.0,West
+Oxnard,California,93030.0,West
+Renton,Washington,98059.0,West
+Glenview,Illinois,60025.0,Central
+Delray Beach,Florida,33445.0,South
+Commerce City,Colorado,80022.0,West
+Texas City,Texas,77590.0,Central
+Wilson,North Carolina,27893.0,South
+Rio Rancho,New Mexico,87124.0,West
+Goldsboro,North Carolina,27534.0,South
+Everett,Washington,98208.0,West
+Montebello,California,90640.0,West
+El Cajon,California,92020.0,West
+Beaumont,Texas,77705.0,Central
+West Palm Beach,Florida,33407.0,South
+Abilene,Texas,79605.0,Central
+Normal,Illinois,61761.0,Central
+Saint Charles,Missouri,63301.0,Central
+Saint Charles,Illinois,60174.0,Central
+Camarillo,California,93010.0,West
+Hillsboro,Oregon,97123.0,West
+Burbank,California,91505.0,West
+Modesto,California,95351.0,West
+Garden City,Kansas,67846.0,Central
+Atlantic City,New Jersey,8401.0,East
+Longmont,Colorado,80501.0,West
+Davis,California,95616.0,West
+Wheeling,West Virginia,26003.0,East
+Morgan Hill,California,95037.0,West
+Clifton,New Jersey,7011.0,East
+Sheboygan,Wisconsin,53081.0,Central
+East Point,Georgia,30344.0,South
+Rapid City,South Dakota,57701.0,Central
+Andover,Massachusetts,1810.0,East
+Kissimmee,Florida,34741.0,South
+Shelton,Connecticut,6484.0,East
+Danbury,Connecticut,6810.0,East
+Marion,Iowa,52302.0,Central
+Sanford,Florida,32771.0,South
+San Marcos,Texas,78666.0,Central
+Greeley,Colorado,80634.0,West
+Mansfield,Texas,76063.0,Central
+Elyria,Ohio,44035.0,East
+Twin Falls,Idaho,83301.0,West
+Coral Gables,Florida,33134.0,South
+Romeoville,Illinois,60441.0,Central
+Marlborough,Massachusetts,1752.0,East
+Laurel,Maryland,20707.0,East
+Bryan,Texas,77803.0,Central
+Pine Bluff,Arkansas,71603.0,South
+Aberdeen,South Dakota,57401.0,Central
+Hagerstown,Maryland,21740.0,East
+East Orange,New Jersey,7017.0,East
+Arlington Heights,Illinois,60004.0,Central
+Oswego,Illinois,60543.0,Central
+Coon Rapids,Minnesota,55433.0,Central
+San Clemente,California,92672.0,West
+Dublin,California,94568.0,West
+San Luis Obispo,California,93405.0,West
+Springdale,Arkansas,72762.0,South
